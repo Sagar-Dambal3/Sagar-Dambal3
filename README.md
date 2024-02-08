@@ -3,15 +3,15 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p> -->
 
-- 🌱 I’m currently learning **React JS and System Design**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
 - 👨‍💻 I’m currently working at [ITC Infotech](https://www.itcinfotech.com/)
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1Eoa_2pHYyJLPQPMCSkMiTyAUHdPuY7CT/view?usp=sharing)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/14tdfiXYDQDQRwO5137YnSMp5vlt-abwI/view?usp=sharing)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Sagar-Dambal3)
 <!-- - 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg) -->
-- 💬 Ask me about **Programming, Frontend Development, Backend Development**
+- 💬 Ask me about **Backend Development**
 
 - 📫 Reach out to me at **sagardambal3@gmail.com**
 
