@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p> -->
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🌱 I’m currently learning **Java, Spring Boot and React.js**
 
 - 👨‍💻 I’m currently working at [ITC Infotech](https://www.itcinfotech.com/)
 
@@ -11,7 +11,7 @@
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Sagar-Dambal3)
 <!-- - 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg) -->
-- 💬 Ask me about **Backend Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 Reach out to me at **sagardambal3@gmail.com**
 
