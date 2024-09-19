@@ -13,7 +13,7 @@
 <!-- - 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg) -->
 - 💬 Ask me about **Full Stack Development**
 
-- 📫 Reach out to me at **sagardambal3@gmail.com**
+- 📫 Reach out to me at **sagardambal3@gmail.com** or **sagardambal07@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
