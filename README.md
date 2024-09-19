@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working at [ITC Infotech](https://www.itcinfotech.com/)
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/14tdfiXYDQDQRwO5137YnSMp5vlt-abwI/view?usp=sharing)
+- 📑 Check out my resume here - [My Resume]([https://drive.google.com/file/d/14tdfiXYDQDQRwO5137YnSMp5vlt-abwI/view?usp=sharing](https://drive.google.com/file/d/1apsrqrl5MJCc-NkEolIJmGz9ZmbiETM8/view?usp=sharing))
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Sagar-Dambal3)
 <!-- - 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg) -->
